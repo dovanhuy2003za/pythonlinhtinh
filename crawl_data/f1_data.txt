@@ -1,0 +1,126 @@
+Position: 1
+Driver Name: Max Verstappen
+Nationality: NED
+Car: Red Bull Racing Honda RBPT
+Pst: 277
+
+Position: 2
+Driver Name: Lando NorrisNOR
+Nationality: GBR
+Car: McLaren Mercedes
+Pst: 199
+
+Position: 3
+Driver Name: Charles LeclercLEC
+Nationality: MON
+Car: Ferrari
+Pst: 177
+
+Position: 4
+Driver Name: Oscar PiastriPIA
+Nationality: AUS
+Car: McLaren Mercedes
+Pst: 167
+
+Position: 5
+Driver Name: Carlos SainzSAI
+Nationality: ESP
+Car: Ferrari
+Pst: 162
+
+Position: 6
+Driver Name: Lewis HamiltonHAM
+Nationality: GBR
+Car: Mercedes
+Pst: 150
+
+Position: 7
+Driver Name: Sergio PerezPER
+Nationality: MEX
+Car: Red Bull Racing Honda RBPT
+Pst: 131
+
+Position: 8
+Driver Name: George RussellRUS
+Nationality: GBR
+Car: Mercedes
+Pst: 116
+
+Position: 9
+Driver Name: Fernando AlonsoALO
+Nationality: ESP
+Car: Aston Martin Aramco Mercedes
+Pst: 49
+
+Position: 10
+Driver Name: Lance StrollSTR
+Nationality: CAN
+Car: Aston Martin Aramco Mercedes
+Pst: 24
+
+Position: 11
+Driver Name: Nico HulkenbergHUL
+Nationality: GER
+Car: Haas Ferrari
+Pst: 22
+
+Position: 12
+Driver Name: Yuki TsunodaTSU
+Nationality: JPN
+Car: RB Honda RBPT
+Pst: 22
+
+Position: 13
+Driver Name: Daniel RicciardoRIC
+Nationality: AUS
+Car: RB Honda RBPT
+Pst: 12
+
+Position: 14
+Driver Name: Oliver BearmanBEA
+Nationality: GBR
+Car: Ferrari
+Pst: 6
+
+Position: 15
+Driver Name: Pierre GaslyGAS
+Nationality: FRA
+Car: Alpine Renault
+Pst: 6
+
+Position: 16
+Driver Name: Kevin MagnussenMAG
+Nationality: DEN
+Car: Haas Ferrari
+Pst: 5
+
+Position: 17
+Driver Name: Esteban OconOCO
+Nationality: FRA
+Car: Alpine Renault
+Pst: 5
+
+Position: 18
+Driver Name: Alexander AlbonALB
+Nationality: THA
+Car: Williams Mercedes
+Pst: 4
+
+Position: 19
+Driver Name: Zhou GuanyuZHO
+Nationality: CHN
+Car: Kick Sauber Ferrari
+Pst: 0
+
+Position: 20
+Driver Name: Logan SargeantSAR
+Nationality: USA
+Car: Williams Mercedes
+Pst: 0
+
+Position: 21
+Driver Name: Valtteri BottasBOT
+Nationality: FIN
+Car: Kick Sauber Ferrari
+Pst: 0
+
